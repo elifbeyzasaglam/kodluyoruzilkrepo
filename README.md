@@ -1,5 +1,5 @@
 # kodluyoruz Ilk Repo
-Bu repo [kodluyoruz] (https://www.kodluyoruz.org/) Java Bootcamp Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir README dosyası, bir index.html dosyası barındırıyor.
+Bu repo [kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Java Bootcamp Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir README dosyası, bir index.html dosyası barındırıyor.
 
 ## Installation
 
@@ -28,4 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License 
 
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
